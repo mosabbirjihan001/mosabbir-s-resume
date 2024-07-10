@@ -111,6 +111,7 @@ border-radius: 20px;
 
 .sec11{
     background-image: url("/assets/handshake.jpg");
+    padding: 20px;
     background-size:contain;
     background-repeat: no-repeat;
     background-position: center;
