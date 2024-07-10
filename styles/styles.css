@@ -1,6 +1,6 @@
 /* sec1 */
 .sec1{
-    background-image: url('/assets/Hero-bg.png');
+    background-image: url("/assets/Hero-bg.png");
     display: flex;
     flex-direction: column;
     justify-content: center;
